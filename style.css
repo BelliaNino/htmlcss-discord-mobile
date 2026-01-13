@@ -40,6 +40,20 @@ padding: 0;
     margin: 3rem;
     border-radius: 2rem;
     }
+
+    #cube {
+        width: 80px;
+        position: relative;
+        left: 2.5rem;
+        top: -2.5rem;
+    }
+
+    #eyes {
+        width: 80px;
+        position: relative;
+        left: 2.5rem;
+        top: -2.5rem;
+    }
     
 
    
