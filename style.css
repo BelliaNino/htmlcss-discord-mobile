@@ -34,7 +34,8 @@ padding: 0;
     margin-bottom: 5%;
     margin-left: 18%;
    }
-
+   
+   /*first buttom*/
    #upbuttom {
     font-family: dm sans;
     width: 300px;
@@ -44,6 +45,7 @@ padding: 0;
     margin-left: 21%;
    }
 
+   /*second buttom*/
    #downbuttom {
     font-family: dm sans;
     width: 300px;
@@ -59,6 +61,7 @@ padding: 0;
    
    /* cards */
    .card {
+    min-height: 650px;
     background-image: url(./img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,7 +81,8 @@ padding: 0;
         position: relative;
         top: -1.5rem;
     }
-
+    
+    /*card sentences*/
     .cardpara {
         font-family: dm sans;
         padding-right: 2rem;
@@ -102,6 +106,17 @@ padding: 0;
         position: relative;
         left: 2.5rem;
         top: -2.5rem;
+    }
+
+    /*card images*/
+    .mainimg {
+     width: 350px;
+     position:relative;
+     top: 1rem;
+     right: 1rem;
+     bottom: 1rem;
+     left: 2rem;
+     border-radius: 2rem;
     }
 
 
