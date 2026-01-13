@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "htmlcss-discord-mobile",
+			"path": "."
+		},
+		{
+			"name": "video",
+			"path": "../video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htmlcss-discord-mobile",
+		"liveServer.settings.port": 5501
+	}
+}
