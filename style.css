@@ -22,7 +22,18 @@ padding: 0;
     margin-right: 18%;
    }
 
-   
+   #firstparagraph {
+    color: white;
+    text-align: center;
+   }
+
+   .card {
+    background-image: url(./img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 2rem;
+    border-radius: 2rem;
+    }
     
 
    
