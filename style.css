@@ -35,8 +35,8 @@ padding: 0;
     margin-left: 18%;
    }
    
-   /*first buttom*/
-   #upbuttom {
+   /*first button*/
+   #upbutton {
     font-family: dm sans;
     width: 300px;
     height: 48px;
@@ -45,8 +45,8 @@ padding: 0;
     margin-left: 21%;
    }
 
-   /*second buttom*/
-   #downbuttom {
+   /*second button*/
+   #downbutton {
     font-family: dm sans;
     width: 300px;
     height: 48px;
