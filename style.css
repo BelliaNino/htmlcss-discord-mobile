@@ -8,3 +8,19 @@ padding: 0;
     margin: auto; 
     background-color: rgb(10, 10, 141);
    }
+
+     #topimage {
+    width: 512px;
+   }
+   
+   h1 {
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 18%;
+    margin-bottom: 5%;
+    margin-right: 18%;
+   }
+    
+
+   
