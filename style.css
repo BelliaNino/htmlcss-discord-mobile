@@ -13,25 +13,31 @@ padding: 0;
     width: 512px;
    }
    
+   /* main sentence */
    h1 {
     color: white;
     text-align: center;
     margin-top: 15%;
-    margin-left: 18%;
-    margin-bottom: 5%;
     margin-right: 18%;
+    margin-bottom: 5%;
+    margin-left: 18%;
    }
 
+   /* description */
    #firstparagraph {
     color: white;
     text-align: center;
+    margin-right: 18%;
+    margin-bottom: 5%;
+    margin-left: 18%;
    }
-
+   
+   /* cards */
    .card {
     background-image: url(./img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 2rem;
+    margin: 3rem;
     border-radius: 2rem;
     }
     
