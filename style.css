@@ -15,6 +15,8 @@ padding: 0;
    
    /* main sentence */
    h1 {
+    font-family: sigmar;
+    line-height: 1;
     color: white;
     text-align: center;
     margin-top: 15%;
@@ -25,6 +27,7 @@ padding: 0;
 
    /* description */
    #firstparagraph {
+    font-family: dm sans;
     color: white;
     text-align: center;
     margin-right: 18%;
@@ -33,19 +36,21 @@ padding: 0;
    }
 
    #upbuttom {
+    font-family: dm sans;
     width: 300px;
     height: 48px;
     border-radius: 2rem;
     border: 0;
-    margin-left: 20%;
+    margin-left: 21%;
    }
 
    #downbuttom {
+    font-family: dm sans;
     width: 300px;
     height: 48px;
     border-radius: 2rem;
     border: 0;
-    margin-left: 20%;
+    margin-left: 21%;
     margin-top: 1rem;
     background-color: rgba(81, 81, 235, 0.831);
     color: white;
@@ -62,12 +67,33 @@ padding: 0;
     color: white;
     }
 
+    .cardtext {
+        font-family: sigmar;
+        font-size: 200%;
+        line-height: 1;
+        margin: 2rem;
+        margin-bottom: 0rem;
+        margin-top: 0;
+        padding-right: 4rem;
+        position: relative;
+        top: -1.5rem;
+    }
+
+    .cardpara {
+        font-family: dm sans;
+        padding-right: 2rem;
+        padding-bottom: 1rem;
+        padding-left: 2rem;
+    }
+    
+
     /*first card icon*/
     #cube {
         width: 80px;
         position: relative;
         left: 2.5rem;
         top: -2.5rem;
+
     }
 
     /*second card icon*/
