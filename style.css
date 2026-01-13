@@ -1,0 +1,10 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+   body {
+    width: 512px;
+    margin: auto; 
+    background-color: rgb(10, 10, 141);
+   }
